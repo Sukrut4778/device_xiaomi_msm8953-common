@@ -106,8 +106,7 @@ ro.qualcomm.cabl=0 \
 ro.vendor.display.cabl=2 \
 sdm.debug.disable_skip_validate=1 \
 vendor.display.disable_skip_validate=1 \
-vendor.gralloc.enable_fb_ubwc=1 \
-ro.sf.lcd_density=420
+vendor.gralloc.enable_fb_ubwc=1
 
 # Graphics
 PRODUCT_PROPERTY_OVERRIDES += \
